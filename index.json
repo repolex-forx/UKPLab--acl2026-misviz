@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2026-misviz",
+  "versions": [
+    {
+      "commit": "6a6612b4a3216ea4eaef157043347c0405d70f0a",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:48:20.767068+00:00"
+    }
+  ]
+}
